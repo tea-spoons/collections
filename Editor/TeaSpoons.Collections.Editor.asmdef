@@ -1,0 +1,16 @@
+{
+    "name": "TeaSpoons.Collections.Editor",
+    "rootNamespace": "TeaSpoons.Collections.Editor",
+    "references": [
+        "TeaSpoons.Collections"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": []
+}
